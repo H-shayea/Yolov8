@@ -1,0 +1,8 @@
+YOLOv8 Detections (x_center y_center width height confidence class)
+Confidence threshold: 0.50
+NMS IoU threshold: 0.50
+Det 0: 321.0 288.5 635.1 305.9 0.871 5
+Det 1: 116.5 386.9 151.0 301.0 0.878 0
+Det 2: 224.5 374.8 96.9 267.6 0.847 0
+Det 3: 584.9 374.2 109.9 290.2 0.879 0
+Det 4: 29.4 421.1 58.8 189.7 0.625 0
